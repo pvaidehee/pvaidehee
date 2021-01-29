@@ -2,8 +2,6 @@
 #### Know me here: https://personal-portfolio1995.vercel.app/
 #### Connect me here: https://www.linkedin.com/in/pvaidehee1995/
 
-![I am Vee](https://personal-portfolio1995.vercel.app//images/banner.png)
-
 - 🔭 I’m currently working on Lambda Labs - Story Squad - Monstor App.
 - 🌱 I’m currently learning Angular JS and Ruby.
 - 💬 Ask me about anything else that you might wanna know :)))
