@@ -25,8 +25,8 @@ Full-Stack Web Developer in a really determined position to get set for hands-on
 
 #### Contact 📫:
 
-Email : pvaidehee@gmail.com
-LinkedIn : https://www.linkedin.com/in/pvaidehee1995/
+- Email : pvaidehee@gmail.com
+- LinkedIn : https://www.linkedin.com/in/pvaidehee1995/
 
 
 <!-- ### Hi there 👋 I'm Vaidehee Patel, you can also call me Vee.
