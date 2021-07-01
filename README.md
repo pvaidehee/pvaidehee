@@ -9,6 +9,11 @@ Full-Stack Web Developer in a really determined position to get set for hands-on
 - Redux
 - CSS
 - HTML
+- Java
+- MySQL
+- SDET
+- Agile and Waterfall
+- Scrum
 - Postges
 - SQLite
 - NodeJS
